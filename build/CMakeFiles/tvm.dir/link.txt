@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/cc -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/tvm.dir/link.d CMakeFiles/tvm.dir/src/main.c.o -o tvm
